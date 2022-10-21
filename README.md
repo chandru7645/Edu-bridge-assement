@@ -39,7 +39,9 @@ You need to classify fetal health to avoid the abnormalities for the child and m
 
 You will be provided with a CSV consisting of 22 columns out of which the first 21 columns are the factors based on which you need to classify the fetal health which is the last column.You need to classify the health status into the following:
 1.0 - Normal
+
 2.0 - Suspect
+
 3.0 - Pathological
 
 The columns in the CSV are:
@@ -67,7 +69,9 @@ u) histogram_tendency
 v) fetal_health
 ##### Training data set:
 This data set will be available to the developers for training their model. 
+
 https://edubridgeindiain-my.sharepoint.com/:u:/g/personal/gaurav_hajela_edubridgeindia_in/EV0nE49gERFCkHLLudlWPlYBirh37eXNifwzNsC05PknwQ?e=SPtLoT
+
 ##### Validation data set:
 This data set will be available to the developers for validating their model before they submit for
 evaluation.
